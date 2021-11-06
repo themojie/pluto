@@ -1,1 +1,27 @@
-test
+{
+  "key": "v2b_mojie",
+  "target": 1,
+  "email": "themojie@pm.me",
+  "tg": "https://t.me/The_Lord_Rings",
+  "crisp": "",
+  "loginless": 0,
+  "loginless_link": "",
+  "code_login": 0,
+  "code_register": 0,
+  "captcha_login": 1,
+  "captcha_register": 2,
+  "captcha_checkin": 1,
+  "notice": 2,
+  "checkin": 0,
+  "line_flag_regex": "",
+  "line_exclude_loc": 0,
+  "payment_config": {
+    "Alipay": "1",
+    "Wechat": "1"
+  },
+  "hosts": [
+    "https://mojie.cyou",
+    "https://mojie.info",
+    "https://mojie.pw"
+  ]
+}
