@@ -11,17 +11,17 @@
   "captcha_login": 1,
   "captcha_register": 2,
   "captcha_checkin": 1,
-  "notice": 2,
+  "notice": 3,
   "checkin": 0,
-  "line_flag_regex": "",
+  "line_flag_regex": "([\\u4e00-\\u9fa5]+)",
   "line_exclude_loc": 0,
   "payment_config": {
     "Alipay": "1",
     "Wechat": "1"
   },
   "hosts": [
-    "https://mojie.cyou",
-    "https://mojie.info",
-    "https://mojie.pw"
+    "https://mojie.cyou/",
+    "https://mojie.info/",
+    "https://mojie.pw/"
   ]
 }
