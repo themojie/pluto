@@ -1,1 +1,11 @@
-mac
+{
+  "code": 120000,
+  "name": "1.2.0",
+  "content": "请立即更新此版本",
+  "url": "https://down.mojie.xyz/MacOS_MoJie_1.2.0_x64.dmg",
+  "md5": "",
+  "force": 0,
+  "qrcode": "",
+  "create_time": 1666806782,
+  "create_date": "2022-10-27"
+}
