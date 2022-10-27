@@ -1,1 +1,11 @@
-1
+{
+  "code": 120000,
+  "name": "1.2.0",
+  "content": "重要更新，请立即更新至此版本！",
+  "url": "https://down.mojie.xyz/Windows_MoJie_1.2.0_x64.exe",
+  "md5": "",
+  "force": 0,
+  "qrcode": "",
+  "create_time": 1636521556,
+  "create_date": "2021-11-10"
+}
