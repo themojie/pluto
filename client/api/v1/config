@@ -1,5 +1,6 @@
 {
   "key": "v2b_mojie",
+  "host_source": https://mojie.site,
   "target": 1,
   "email": "themojie@pm.me",
   "tg": "https://t.me/The_Lord_Rings",
@@ -20,8 +21,7 @@
     "Wechat": "1"
   },
   "hosts": [
-    "https://mojie.cyou/",
-    "https://mojie.info/",
-    "https://mojie.pw/"
+    "https://fuckyou.mojieapp.xyz/",
+    "https://mojie.site/"
   ]
 }
