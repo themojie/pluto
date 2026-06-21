@@ -21,7 +21,7 @@
     "Wechat": "1"
   },
   "hosts": [
-    "https://fuckyou.mojieapp.xyz/",
-    "https://mojie.site/"
+    "https://47.242.128.61:8000/",
+    "https://mojie.host/"
   ]
 }
