@@ -1,11 +1,1 @@
-{
-  "code": 106000,
-  "name": "1.0.6",
-  "content": "重要更新，请立即更新此版本！\n\n修复节点排序错乱问题\n优化工单逻辑\n提升T节点兼容性\n优化APP打开和登录速度",
-  "url": "https://down.mojie.xyz/Android_MoJie_1.0.6.00.apk",
-  "md5": "",
-  "force": 0,
-  "qrcode": "",
-  "create_time": 1634997252,
-  "create_date": "2021-10-23"
-}
+{"id":2,"app_id":1,"source_id":1,"code":200100,"name":"2.0.1","content":"魔戒 2.0.1：购买流量入口优化、配置源容错增强、修复若干闪退，提升稳定性。","url":"https://mojiedown.com/mojie-2.0.1-universal.apk","md5":"890384d1c4784971b5fc3322a2e89932","force":0,"qrcode":"","create_time":1782143951}
